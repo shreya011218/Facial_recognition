@@ -1,0 +1,5 @@
+git rm -r --cached project1.py
+git rm -r --cached project2/
+git rm -r --cached project3/
+git rm -r --cached project4/
+git rm -r --cached "project5(final)/"
