@@ -1,5 +1,11 @@
-git rm -r --cached project1.py
-git rm -r --cached project2/
-git rm -r --cached project3/
-git rm -r --cached project4/
-git rm -r --cached "project5(final)/"
+git rm --cached "proj 1.py"
+git rm --cached "proj 2.py"
+git rm --cached "proj0.py"
+git rm --cached "proj1 self.py"
+git rm --cached "project 1 (facial identification).py"
+git rm --cached "project 2 (webcam).py"
+git rm --cached "project 3 (live tracking).py"
+git rm --cached "project 4 (database + on command photo).py"
+git rm --cached "project 4.2.py"
+git rm --cached "project 4.3.py"
+git rm --cached "project 5 (final).py"
